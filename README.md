@@ -1,0 +1,1 @@
+As atividades para a prática dos conhecimentos adquiridos durantes as aulas lecionadas do minicurso de Python Básico do PET Elétrica - UFPB, nas edições 2023.2 e 2023.1. Tais atividades foram contabilizadas como ação extensionista e de curricularização da extensão para os alunos."
